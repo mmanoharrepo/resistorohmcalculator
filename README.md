@@ -11,19 +11,29 @@ using Asp.net Core.
 - Visual Studio Code
 - Node.js from https://nodejs.org/en/
 
-## Configuring and Initializing Api
+## API
+### Configuring and Initializing Api
 - Configuring Api is the first step that need to be done
 - Download the repository and go to folder "api" and open "OhmValueCalcApi.sln" and run the same. 
 You will see swagger url i.e "http://localhost:57489/swagger/index.html" in the browser.
 - With this Api is ready to consume.
 
-## Configuring and Initializing UI (React)
+### Details
+- Asp.Net Core is used to develop.
+- Implemented Swagger, DependencyInjection, Middleware(for ExceptionHandling), UnitTest Cases, IntegrationTest Cases.
+
+## Web or UI
+### Configuring and Initializing UI (React)
 - Using visual studio code open the folder "web" from your local repository.
 - Go to terminal in visual studio and run below command
   "npm install"
 - After successful installation of local node modules run below command
   "npm start"
 - You will see local react webapp running
+
+### Details
+- React is used to develop.
+- Webpack, babel, axios are used.
 
 ## Assumptions or Changes made to given challenge
 
