@@ -1,7 +1,6 @@
 # Resistor OhmValue Calculator
 
-This project contains UI and Api to build a tool for calculating Resitor OhmValue Calculator. UI is built using REACT and Api is built
-using Asp.net Core.
+This project contains UI and Api to build a tool for calculating Resitor OhmValue Calculator.
 
 - Api contains calculator logic.
 - Web contains Ui.
