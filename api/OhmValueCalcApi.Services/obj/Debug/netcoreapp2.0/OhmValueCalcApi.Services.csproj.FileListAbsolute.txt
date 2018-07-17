@@ -1,0 +1,17 @@
+C:\OhmValueCalculator\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.csprojAssemblyReference.cache
+C:\OhmValueCalculator\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.csproj.CoreCompileInputs.cache
+C:\OhmValueCalculator\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.AssemblyInfoInputs.cache
+C:\OhmValueCalculator\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.AssemblyInfo.cs
+C:\OhmValueCalculator\OhmValueCalcApi.Services\bin\Debug\netcoreapp2.0\OhmValueCalcApi.Services.deps.json
+C:\OhmValueCalculator\OhmValueCalcApi.Services\bin\Debug\netcoreapp2.0\OhmValueCalcApi.Services.dll
+C:\OhmValueCalculator\OhmValueCalcApi.Services\bin\Debug\netcoreapp2.0\OhmValueCalcApi.Services.pdb
+C:\OhmValueCalculator\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.dll
+C:\OhmValueCalculator\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.pdb
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\bin\Debug\netcoreapp2.0\OhmValueCalcApi.Services.deps.json
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\bin\Debug\netcoreapp2.0\OhmValueCalcApi.Services.dll
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\bin\Debug\netcoreapp2.0\OhmValueCalcApi.Services.pdb
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.csproj.CoreCompileInputs.cache
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.AssemblyInfoInputs.cache
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.AssemblyInfo.cs
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.dll
+C:\OhmValueCalculator\api\OhmValueCalcApi.Services\obj\Debug\netcoreapp2.0\OhmValueCalcApi.Services.pdb

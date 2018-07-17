@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OhmValueCalcApi", "OhmValueCalcApi\OhmValueCalcApi.csproj", "{BD0A5951-D296-42CC-A2F2-38A3DB0215D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OhmValueCalcApi.Services", "OhmValueCalcApi.Services\OhmValueCalcApi.Services.csproj", "{93F6CD94-75DF-4F62-AD9B-7FF6C471B981}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OhmValueCalcApi.Tests", "OhmValueCalcApi.Tests", "{72EBF50A-EAB1-4213-B2D6-FAE1FE630B88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OhmValueCalcApi.UnitTests", "OhmValueCalcApi.UnitTests\OhmValueCalcApi.UnitTests.csproj", "{39DF0B7F-EA18-4F40-915B-37FE4E453FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmValueCalcApi.IntegrationTests", "OhmValueCalcApi.IntegrationTests\OhmValueCalcApi.IntegrationTests.csproj", "{19D57F52-2ECA-4029-B68E-50612106FCE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD0A5951-D296-42CC-A2F2-38A3DB0215D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0A5951-D296-42CC-A2F2-38A3DB0215D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0A5951-D296-42CC-A2F2-38A3DB0215D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0A5951-D296-42CC-A2F2-38A3DB0215D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F6CD94-75DF-4F62-AD9B-7FF6C471B981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F6CD94-75DF-4F62-AD9B-7FF6C471B981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F6CD94-75DF-4F62-AD9B-7FF6C471B981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F6CD94-75DF-4F62-AD9B-7FF6C471B981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DF0B7F-EA18-4F40-915B-37FE4E453FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DF0B7F-EA18-4F40-915B-37FE4E453FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DF0B7F-EA18-4F40-915B-37FE4E453FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DF0B7F-EA18-4F40-915B-37FE4E453FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D57F52-2ECA-4029-B68E-50612106FCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D57F52-2ECA-4029-B68E-50612106FCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D57F52-2ECA-4029-B68E-50612106FCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D57F52-2ECA-4029-B68E-50612106FCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39DF0B7F-EA18-4F40-915B-37FE4E453FC1} = {72EBF50A-EAB1-4213-B2D6-FAE1FE630B88}
+		{19D57F52-2ECA-4029-B68E-50612106FCE5} = {72EBF50A-EAB1-4213-B2D6-FAE1FE630B88}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4A5330-699C-486F-B4FA-BFD0CBB1A633}
+	EndGlobalSection
+EndGlobal

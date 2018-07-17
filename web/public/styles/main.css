@@ -1,0 +1,83 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.content {
+    width: 100%;
+    margin: 5px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+h3{
+    font-size: 14px;
+}
+
+.headline{
+    border-bottom: solid 1px #000000;
+    padding-bottom: 3px;
+}
+
+.calculator{
+    display:block;
+    width: 500px;
+}
+
+.calculator h3 {
+    padding: 10px;
+    background-color: dimgray;
+}
+
+.calculator h3.error {
+    padding: 10px;
+    color: red;
+    background-color: lightblue;
+}
+
+.calculator select{
+    width: 200px;
+}
+
+.calculator .input-group {
+    padding: 10px;
+}
+
+.calculator .result-group {
+    padding: 10px;
+    background-color: dimgray;
+}
+
+.calculator .input-group label {
+    text-align: left;
+    clear: both;
+    float: left;
+    margin-right: 15px;
+    font-weight: 200;
+    width:100px;
+}
+
+.primary-button {
+    background-color: darkgray;
+    color: black;
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.primary-button:disabled{
+    background-color: darkgray;
+    color: black;
+    opacity: 0.65;
+    cursor: not-allowed;    
+}
